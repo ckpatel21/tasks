@@ -9,8 +9,8 @@
     "start_url": "/",
     "icon":  [
         {
-            "src": "https://img.icons8.com/plasticine/2x/todo-list.png",
-            "sizes": "200x200"
+            "src": "/static/logo.jpg",
+            "sizes": "24x24"
         }
     ]
   }
