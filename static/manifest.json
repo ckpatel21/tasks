@@ -1,0 +1,15 @@
+{
+    "name": "Tasks",
+    "short_name": "Task manager",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/https://ck-tasks.netlify.app/",
+    "icon":  [
+        {
+            "src": "https://img.icons8.com/plasticine/2x/todo-list.png",
+            "sizes": "1024x1024"
+        }
+    ]
+  }
